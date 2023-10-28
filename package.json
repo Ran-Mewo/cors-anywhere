@@ -21,7 +21,7 @@
   ],
   "scripts": {
     "start": "node ./main.js"
-  }
+  },
   "files": [
     "lib/",
     "test/",
