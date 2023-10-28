@@ -19,7 +19,7 @@
     "proxy",
     "heroku"
   ],
-  "main": "./main.js",
+  "main": "main.js",
   "files": [
     "lib/",
     "test/",
