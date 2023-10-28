@@ -19,9 +19,7 @@
     "proxy",
     "heroku"
   ],
-  "scripts": {
-    "start": "node ./main.js"
-  },
+  "main": "./main.js",
   "files": [
     "lib/",
     "test/",
